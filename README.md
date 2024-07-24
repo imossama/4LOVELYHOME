@@ -1,4 +1,4 @@
-### Your Lovely Home (Home WiFi Device Control Application)
+### urLovelyHome (Home WiFi Device Control Application)
 
 [![Python](https://img.shields.io/badge/Python-3.6%2B-blue?style=flat&logo=python)](https://www.python.org/)
 [![React](https://img.shields.io/badge/React-17.0%2B-61DAFB?style=flat&logo=react)](https://reactjs.org/)
