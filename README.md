@@ -12,7 +12,7 @@
 
 This application will provide a valuable learning opportunity as we delve into innovative smart home management solutions. Our goal is to create a distinctive tool that surpasses conventional home automation applications. By utilizing advanced technologies and focusing on user-centric design, we aim to enhance the convenience and security of modern living.
 
-<img src="https://github.com/user-attachments/assets/bfac926d-c369-4814-b769-95cd12ccdfa1" alt="eat my shit, society!" height="200">
+<img src="https://github.com/user-attachments/assets/bfac926d-c369-4814-b769-95cd12ccdfa1" alt="" height="200">
 
 #### Overview 🌟
 
