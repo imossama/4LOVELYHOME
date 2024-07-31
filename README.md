@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/👥 Looking for Collaborators-2F2F2F?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/👥 Open to Collaborations-2F2F2F?&style=for-the-badge">
 </p>
 
 ### 4LovelyHome (Home WiFi Device Control Application)
@@ -109,3 +109,12 @@ This project is a web application that allows users to control and manage their 
 - **Testing**: Implement unit and integration tests for both frontend and backend.
 - **CI/CD**: Set up continuous integration and deployment pipelines.
 - **Monitoring**: Implement logging and monitoring for your services to track performance and errors.
+
+#### License 📝
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+#### Acknowledgements 🙏
+- This project was inspired by the growing trend of smart home technology and the need for advanced, user-friendly home management solutions.
+- Special thanks to the developers and communities behind the technologies used in this project, including C++, Next.js, Node.js, MongoDB, MQTT, and AWS.
+- The open-source tools and libraries that have made this project possible.
+- If you are interested in collaborating or contributing to this project, feel free to reach out through <a href="https://discord.com/users/1268311532136169482">Discord</a>.
